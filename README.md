@@ -2,7 +2,7 @@
  CFD-Driven Bayesian Optimization of Localized Ventilation Design to Achieve Desired Microclimate Conditions in Plant Factories.
 
 ## Details
-The uploaded files include the source data and related plot code for each figure and table as required.
+The uploaded files include the source data and related plot code for each figure and table as required.\n
 Fig. 8. Measured results of microclimate within the cultivation racks.
 Fig. 9. Inter-rack variation of temperature in the cultivation area.
 Fig. 10. Intra-rack variation of temperature in the cultivation area.
